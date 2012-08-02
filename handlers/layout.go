@@ -1,4 +1,4 @@
-package accounts
+package handlers
 
 import (
 	. "github.com/paulbellamy/mango"

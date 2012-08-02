@@ -1,0 +1,6 @@
+.DS_Store
+/public/.sass-cache/
+/docs/
+workspace.vim
+tags
+*.swp
